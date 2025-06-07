@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "test product"
+  },
+  {
+    "id": 1749312355111,
+    "name": "iPhone 15 Pro Max",
+    "price": 1499,
+    "stock": 25
+  },
+  {
+    "id": 1749312356673,
+    "name": "iPhone 15 Pro Max",
+    "price": 1499,
+    "stock": 25
+  },
+  {
+    "id": 1749312357852,
+    "name": "iPhone 15 Pro Max",
+    "price": 1499,
+    "stock": 25
+  }
+]
